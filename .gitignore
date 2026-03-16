@@ -1,0 +1,10 @@
+data/
+
+*.db3
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.vscode/
